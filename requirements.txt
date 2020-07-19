@@ -1,0 +1,4 @@
+flask==1.1.2
+flask-restful==0.3.8
+sentence-transformers==0.3.0
+joblib==0.13.2
